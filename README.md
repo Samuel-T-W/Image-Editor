@@ -1,2 +1,2 @@
-# imageEditor
- it changes the tone of an image through manipulating the rgb values
+# Image Editor
+ It changes the tone of an image by manipulating the rgb values.
